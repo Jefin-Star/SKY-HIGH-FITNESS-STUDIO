@@ -1,0 +1,6 @@
+{
+  "name": "SKY HIGH FITNESS STUDIO",
+  "description": "Premier fitness, strength training, MMA combat sports, Hyrox, and conditioning studio. Transform your mind and body with elite coaching and modern unisex gym facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
